@@ -30,6 +30,15 @@
   
  </div>
 
+ </div>
+
+<div align="center">
+  <a href="https://wakatime.com/@0420002a-2961-49e9-bd88-efcb03deddec">
+    <img
+      src="https://wakatime.com/badge/github/kaduolliver/Udemy-C-Exercises.svg">
+  </a>
+</div>
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d4d4d4&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+:%29)](https://git.io/typing-svg)
