@@ -18,7 +18,7 @@
  
 <div align="center">
   
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaduolliver&show_icons=true&theme=neon&https://github.com/kaduolliver/github-readme-stats)">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaduolliver&show_icons=true&theme=neon&https://github.com/kaduolliver/github-readme-stats">
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduolliver&layout=compact&theme=neon">
  
  </div>
@@ -38,7 +38,7 @@
 
  <div align="center">
    
-  ![aNqEFrYVnsS52](https://github.com/user-attachments/assets/3824e3e6-d574-4849-9fbd-b2117cd1c7ab)
+ <img width="30%" src="https://github.com/user-attachments/assets/f2cae990-d400-4e63-addf-78d6eb1e59c4">
   
 </div>
 
