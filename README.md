@@ -23,7 +23,7 @@
   
  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=kaduolliver&show_icons=true&theme=neon&https://github.com/kaduolliver/github-readme-stats">
  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaduolliver&layout=compact&theme=neon">
-
+ <img src="https://streak-stats.demolab.com?user=kaduolliver&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph">
  </div>
  <hr>
  
