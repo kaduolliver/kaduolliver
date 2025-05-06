@@ -53,5 +53,13 @@
   
 </div>
 
+<br>
+
+<div align="center">
+ 
+<h3>while (!Success) { tryAgain() ; if(dead) break ; }</h3>
+ 
+</div>
+
 
  
