@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d4d4d4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Carlos+Eduardo;I'm+24+years+old;I'm+from+Brazil;I+studying+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d4d4d4&size=30&center=true&vCenter=true&width=1000&height=150&multiline=true&duration=3000&pause=1000&lines=We+are+the+cosmos+made+conscious;and+life+is+the+means+by+which;the+universe+understands+itself)](https://git.io/typing-svg)
 
 <div align="center">
   <h1>🪐</h1>
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d4d4d4&size=30&center=true&vCenter=true&width=1000&height=150&multiline=true&duration=4000&pause=1000&lines=We+are+the+cosmos+made+conscious;and+life+is+the+means+by+which;the+universe+understands+itself)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d4d4d4&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting!+:%29)](https://git.io/typing-svg)
 
 </div>
 
