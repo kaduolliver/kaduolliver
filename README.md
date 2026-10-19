@@ -41,10 +41,6 @@
 <hr>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaduolliver">
-</div>
-
-<div align="center">
   <a href="https://wakatime.com/@b0d2c626-9337-49af-a8ad-6353ff95162a">
     <img src="https://wakatime.com/badge/user/b0d2c626-9337-49af-a8ad-6353ff95162a.svg?style=default" alt="Total time coded since Aug 31 2024" />
   </a>
